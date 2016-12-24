@@ -1,0 +1,16 @@
+Total tasks: 4 , Task ID: 1 , Host Name: nepenthe-SVF1532X1EB 
+Size 40x16 with probability: 30.0%, number of threads: 8, size assigned to this task: 10x16 
+Total tasks: 4 , Task ID: 2 , Host Name: nepenthe-SVF1532X1EB 
+Total tasks: 4 , Task ID: 3 , Host Name: nepenthe-SVF1532X1EB 
+Size 40x16 with probability: 30.0%, number of threads: 8, size assigned to this task: 10x16 
+Total tasks: 4 , Task ID: 0 , Host Name: nepenthe-SVF1532X1EB 
+Size 40x16 with probability: 30.0%, number of threads: 8, size assigned to this task: 10x16 
+Size 40x16 with probability: 30.0%, number of threads: 8, size assigned to this task: 10x16 
+Board generated
+Board generated
+Board generated
+Board generated
+Game finished in task 3 after 3 generations. Time needed 0.303770 
+Game finished in task 0 after 3 generations. Time needed 0.304075 
+Game finished in task 1 after 3 generations. Time needed 0.303810 
+Game finished in task 2 after 3 generations. Time needed 0.303870 
