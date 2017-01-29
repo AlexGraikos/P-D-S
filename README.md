@@ -6,3 +6,5 @@ Proceed with caution.
 
 
 Update --- Added HW2, Game of Life on hellasgrid
+
+Update 2 --- Added CUDA assignment - Non local means algorithm!
