@@ -1,10 +1,7 @@
 # P-D-S
 
-How I tried to solve Parallel and Distributed Systems - HW1.
-May be wrong.
-Proceed with caution.
+The first three assignments in 'Parallel and Distributed Systems' course, 2016.
 
-
-Update --- Added HW2, Game of Life on hellasgrid
-
-Update 2 --- Added CUDA assignment - Non local means algorithm!
+-- Assignment 1: Cilk-OpenMP-Pthreads implementation of octree/morton encoding/radix sort
+-- Assignment 2: MPI/OpenMP implementation of the Game of Life
+-- Assignment 3: Cuda implementation of Non-Local means algorithm
