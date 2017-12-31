@@ -1,0 +1,8 @@
+<Input Size> <Output Size>
+<Number of Layers>
+<Layer1 Size> <Layer2 Size> ... <LayerM Size>
+<Number of Patterns>
+<Pattern Normalization Flag>
+<Pattern1 Property1> <Pattern1 Property2> ... <Pattern1 PropertyK>
+...
+<PatternL Property1> <PatternL Property2> ... <PatternL PropertyK>
